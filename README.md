@@ -4,7 +4,7 @@ study gene expression accross 32 human tissues
 (1) geneExpressionBoxplot.r 
 Generate boxplot of gene expression levels of gene sets in each tissue.
 
-(2) geneExpressionSignificanceTest.r 
+(2) geneExpressionSignificanceTest.r
 Pairwise comparison (by Wilcoxon Rank Sum test) of gene expression levels of each disease gene set with that of background genes (e.g. protein-coding genes).
 
 (3) geneExpressionFiles (folder)
